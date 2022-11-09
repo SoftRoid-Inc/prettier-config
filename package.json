@@ -1,6 +1,6 @@
 {
   "name": "@softroid/prettier-config",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "repository": "ssh://git@github.com/softroid-inc/prettier-config.git",
   "description": "",
   "author": "softroid",
