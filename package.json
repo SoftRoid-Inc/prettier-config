@@ -1,0 +1,12 @@
+{
+  "name": "@softroid/prettier-config",
+  "version": "0.0.1",
+  "repository": "ssh://git@github.com/softroid-inc/prettier-config.git",
+  "description": "",
+  "author": "softroid",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}
